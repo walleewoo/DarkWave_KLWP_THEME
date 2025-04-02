@@ -7,6 +7,11 @@ SCREENS:
 ![16296](https://github.com/user-attachments/assets/ae111594-e31a-46ef-9997-6adb68249dc9)
 ![16289](https://github.com/user-attachments/assets/6601f876-6256-4e9d-b7ad-2e80e983c566)
 
+New Color Changer:
+
+![16352](https://github.com/user-attachments/assets/f36f1ba7-a2a7-46e4-91f4-f42c417758be)
+
+
 SCREEN RECORD:
 
 
