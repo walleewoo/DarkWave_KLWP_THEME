@@ -2,6 +2,8 @@
 
    Two screen klwp preset with theme chooser and fluid wave animations. Totally free with monthly (approx) updates.
 
+https://github.com/user-attachments/assets/11845180-86a9-4ef5-9687-cf97e81c77e0
+
 SCREENS:
 
 ![16296](https://github.com/user-attachments/assets/ae111594-e31a-46ef-9997-6adb68249dc9)
@@ -11,10 +13,4 @@ New Color Changer:
 
 ![16352](https://github.com/user-attachments/assets/f36f1ba7-a2a7-46e4-91f4-f42c417758be)
 
-
-SCREEN RECORD:
-
-
-
-https://github.com/user-attachments/assets/11845180-86a9-4ef5-9687-cf97e81c77e0
 
