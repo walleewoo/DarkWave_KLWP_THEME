@@ -1,4 +1,5 @@
-# DarkWave_KLWP_THEME
+# DarkWave_KLWP_THEME/KWGT Widget![30581](https://github.com/user-attachments/assets/d065beb4-5dc4-4a82-9aad-a56f3a290f0c)
+
 
    Two screen klwp preset with theme chooser and fluid wave animations. Totally free with monthly (approx) updates.
 
@@ -13,4 +14,8 @@ New Color Changer:
 
 ![16352](https://github.com/user-attachments/assets/f36f1ba7-a2a7-46e4-91f4-f42c417758be)
 
+Widget:
 
+![30578](https://github.com/user-attachments/assets/8313732a-d980-40f4-9e64-1f83bf23c8ab)
+
+![30579](https://github.com/user-attachments/assets/fc03d10c-5202-4a48-a25d-d8c824f9ef95)
